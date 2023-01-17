@@ -1,2 +1,2 @@
-# AdminTools
-A collection of personal CLI utilities useful for system administration, automation and other tasks
+# The Banana Archive
+My personal and simple self-hosted web site, hosted with apache2. 
